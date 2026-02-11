@@ -1,8 +1,5 @@
 ## Hi there,I'm Akshya 👋
 
-<!--
-**akshyareghunath/AkshyaReghunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel  
 
 I am a self-taught data analyst with hands-on experience in exploratory data analysis, customer segmentation, and business dashboards.  

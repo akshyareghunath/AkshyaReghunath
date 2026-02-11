@@ -63,7 +63,7 @@ https://github.com/akshyareghunath/online-retail-ii-eda
 ---
 
 ## 🎯 Career Goal
-To secure an entry-level **Data Analyst** role where I can apply data skills to solve real business problems and grow in analytics.
+To secure a **Data Analyst** role where I can apply data skills to solve real business problems and grow in analytics.
 
 ---
 
